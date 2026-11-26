@@ -1,185 +1,122 @@
-<table width="100%" cellpadding="10" cellspacing="0">
-  <!-- ROW 1: HEADER — Identity + Links (70%) | Visual + CTA (30%) -->
+<table width="100%" cellpadding="12" cellspacing="0">
+  <!-- BLOQUE 1: IDENTIDAD MUSICAL + ENLACES (70%) | ACCESO SPOTIFY (30%) -->
   <tr>
-    <td width="70%" align="center" valign="middle">
+    <td width="70%" align="left" valign="middle">
       <h3>Yomán</h3>
       <p>
-        <sub><b>Songwriter · Spoken Word &amp; Indie Narrative · Audio Tinkerer</b></sub>
+        <sub><b>Songwriter · Spoken Word &amp; Indie Narrative</b></sub>
       </p>
       <p>
         <sub>
           <em>Introspective lyrics, non-linear arrangements, and narrative worlds<br />
-          built between words, vocal textures, and code.</em>
+          built between voice, atmosphere, and emotion.</em>
         </sub>
       </p>
       <p>
         <!-- TODO: Reemplaza o ajusta estos enlaces con tus URLs reales -->
-        <a href="https://open.spotify.com/intl-es/artist/67BdlNDvFCa6aRWlcrlWUy"><img src="https://api.iconify.design/mdi/spotify.svg?color=%233DA372&width=24&height=24" width="24" height="24" alt="Spotify" title="Spotify" /></a>
-        &nbsp;
-        <a href="mailto:TU_CORREO@ejemplo.com"><img src="https://api.iconify.design/mdi/gmail.svg?color=%23D95F69&width=24&height=24" width="24" height="24" alt="Email" title="Email" /></a>
-        &nbsp;
-        <a href="https://instagram.com/TU_USUARIO/"><img src="https://api.iconify.design/mdi/instagram.svg?color=%23C86490&width=24&height=24" width="24" height="24" alt="Instagram" title="Instagram" /></a>
-        &nbsp;
-        <a href="https://youtube.com/@TU_CANAL"><img src="https://api.iconify.design/mdi/youtube.svg?color=%23D95F69&width=24&height=24" width="24" height="24" alt="YouTube" title="YouTube" /></a>
-        &nbsp;
-        <a href="https://discord.com/users/TU_ID/"><img src="https://api.iconify.design/mdi/discord.svg?color=%238B6BB7&width=24&height=24" width="24" height="24" alt="Discord" title="Discord" /></a>
+        <a href="https://open.spotify.com/intl-es/artist/67BdlNDvFCa6aRWlcrlWUy"><img src="https://api.iconify.design/mdi/spotify.svg?color=%233DA372&width=22&height=22" width="22" height="22" alt="Spotify" title="Spotify" /></a>
+        &nbsp;&nbsp;
+        <a href="mailto:TU_CORREO@ejemplo.com"><img src="https://api.iconify.design/mdi/gmail.svg?color=%23D95F69&width=22&height=22" width="22" height="22" alt="Email" title="Email" /></a>
+        &nbsp;&nbsp;
+        <a href="https://instagram.com/TU_USUARIO/"><img src="https://api.iconify.design/mdi/instagram.svg?color=%23C86490&width=22&height=22" width="22" height="22" alt="Instagram" title="Instagram" /></a>
+        &nbsp;&nbsp;
+        <a href="https://youtube.com/@TU_CANAL"><img src="https://api.iconify.design/mdi/youtube.svg?color=%23D95F69&width=22&height=22" width="22" height="22" alt="YouTube" title="YouTube" /></a>
+        &nbsp;&nbsp;
+        <a href="https://discord.com/users/TU_ID/"><img src="https://api.iconify.design/mdi/discord.svg?color=%238B6BB7&width=22&height=22" width="22" height="22" alt="Discord" title="Discord" /></a>
       </p>
     </td>
     <td width="30%" align="center" valign="middle">
       <!-- TODO: Asegúrate de tener este SVG en ./assets/ o reemplázalo por uno propio -->
-      <a href="https://open.spotify.com/intl-es/artist/67BdlNDvFCa6aRWlcrlWUy" title="Spotify Artist"><img src="./assets/05-easter-waveform.svg" height="22" alt="Audio Waveform" align="middle" /></a>
-      <br />
-      <!-- TODO: Cambia la URL por tu GitHub Pages o archivo de obra -->
-      <a href="https://TU_USUARIO.github.io/TU_REPO/">
-        <img width="96%" src="https://img.shields.io/badge/Andr%C3%B3meda_Archive-4A90D9?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Andrómeda Archive" />
+      <a href="https://open.spotify.com/intl-es/artist/67BdlNDvFCa6aRWlcrlWUy" title="Escuchar en Spotify">
+        <img src="./assets/05-easter-waveform.svg" height="24" alt="Audio Waveform" />
+      </a>
+      <br /><br />
+      <a href="https://open.spotify.com/intl-es/artist/67BdlNDvFCa6aRWlcrlWUy">
+        <img src="https://img.shields.io/badge/Spotify-Listen_Now-3DA372?style=for-the-badge&logo=spotify&logoColor=FFFFFF" alt="Listen on Spotify" />
       </a>
     </td>
   </tr>
 
-  <!-- ROW 2: CREATIVE FOCUS & CURRENT STAGE (70% / 30%) -->
+  <!-- BLOQUE 2: LANZAMIENTO DESTACADO + DETALLE DE ERA -->
   <tr>
-    <!-- COLUMNA IZQUIERDA (70%): EJES DE TRABAJO MUSICAL Y NARRATIVO -->
+    <td width="30%" align="center" valign="middle">
+      <a href="https://open.spotify.com/intl-es/artist/67BdlNDvFCa6aRWlcrlWUy" title="Escuchar Andrómeda en Spotify">
+        <!-- TODO: Reemplaza src con la portada oficial de Andrómeda -->
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS32nI4s7VzG6SiEMum6U9halZ2E0xlVmzxt3U01DMucNDBwHUmlYvbcfJI&s=10" width="145" height="145" alt="Portada Andrómeda" />
+      </a>
+      <p>
+        <sub>
+          <b>ANDRÓMEDA</b><br />
+          <em>Lanzamiento · Fecha: por anunciar</em>
+        </sub>
+      </p>
+    </td>
     <td width="70%" align="left" valign="middle">
-      <p align="center"><sub><b>CREATIVE AXES</b></sub></p>
+      <p><sub><b>LATEST RELEASE</b></sub></p>
       <p>
         <sub>
-          <img src="https://api.iconify.design/mdi/circle-medium.svg?color=%234A90D9&width=16&height=16" width="16" height="16" alt="•" align="middle" />
-          <b>Lyricism &amp; Meter</b> · <em>Rhyme architecture, spoken cadences, long-form verses</em>
+          <b>Título:</b> <em>Andrómeda</em><br />
+          <b>Fecha de lanzamiento:</b> <em><!-- TODO: Pon la fecha exacta (ej. 2026 o DD/MM/AAAA) -->Por confirmar</em><br />
+          <b>Estado:</b> <em>Ciclo actual · En desarrollo</em>
         </sub>
       </p>
       <p>
         <sub>
-          <img src="https://api.iconify.design/mdi/circle-medium.svg?color=%233DA372&width=16&height=16" width="16" height="16" alt="•" align="middle" />
-          <b>Narrative &amp; Worlds</b> · <em>Alienation, shadow themes, visual treatments, scripts</em>
-        </sub>
-      </p>
-      <p>
-        <sub>
-          <img src="https://api.iconify.design/mdi/circle-medium.svg?color=%238B6BB7&width=16&height=16" width="16" height="16" alt="•" align="middle" />
-          <b>Vocal &amp; Arrangement</b> · <em>Subtractive/additive EQ, serial compression, FX sends</em>
-        </sub>
-      </p>
-      <p>
-        <sub>
-          <img src="https://api.iconify.design/mdi/circle-medium.svg?color=%23D97B54&width=16&height=16" width="16" height="16" alt="•" align="middle" />
-          <b>Audio DSP &amp; Tools</b> · <em>C++ / JUCE experiments, Python ML, custom workflows</em>
-        </sub>
-      </p>
-    </td>
-    <!-- COLUMNA DERECHA (30%): ETAPA ACTUAL Y FORMA DE TRABAJO -->
-    <td width="30%" align="left" valign="middle">
-      <p align="center"><sub><b>NOW</b></sub></p>
-      <p>
-        <sub>
-          <img src="https://api.iconify.design/mdi/circle-medium.svg?color=%234A90D9&width=16&height=16" width="16" height="16" alt="•" align="middle" />
-          <b>Cycle:</b> <em>Andrómeda</em>
-        </sub>
-      </p>
-      <p>
-        <sub>
-          <img src="https://api.iconify.design/mdi/circle-medium.svg?color=%233DA372&width=16&height=16" width="16" height="16" alt="•" align="middle" />
-          <b>Roots:</b> <em>Automata · Abstracto</em>
-        </sub>
-      </p>
-      <p>
-        <sub>
-          <img src="https://api.iconify.design/mdi/circle-medium.svg?color=%238B6BB7&width=16&height=16" width="16" height="16" alt="•" align="middle" />
-          <b>Process:</b> <em>Drafts · Revisions</em>
-        </sub>
-      </p>
-      <p>
-        <sub>
-          <img src="https://api.iconify.design/mdi/circle-medium.svg?color=%23D97B54&width=16&height=16" width="16" height="16" alt="•" align="middle" />
-          <b>Status:</b> <em>Writing &amp; Mixing</em>
+          <a href="https://open.spotify.com/intl-es/artist/67BdlNDvFCa6aRWlcrlWUy">
+            <img src="https://img.shields.io/badge/Escuchar_Andr%C3%B3meda-Spotify-3DA372?style=flat-square&logo=spotify&logoColor=FFFFFF" alt="Escuchar Andrómeda en Spotify" />
+          </a>
         </sub>
       </p>
     </td>
   </tr>
 
-  <!-- ROW 3: ACTIVITY & METRICS (70% / 30%) -->
-  <tr>
-    <td width="70%" align="center" valign="middle">
-      <!-- TODO: Reemplaza o crea este SVG si quieres mostrar racha/ritmo -->
-      <img src="./assets/02-metrics-streak.svg" width="100%" alt="Commit & Revision Streak" />
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <!-- TODO: Reemplaza o crea este SVG si quieres mostrar estadísticas -->
-      <img src="./assets/02-metrics-stats.svg" width="100%" alt="Repository Statistics" />
-    </td>
-  </tr>
-
-  <!-- ROW 4: TOOLKIT & ECOSYSTEM (70% / 30%) -->
-  <tr>
-    <td width="70%" align="center" valign="middle">
-      <!-- TODO: Reemplaza o crea este SVG de título -->
-      <img src="./assets/03-stack-title.svg" width="100%" alt="Creative & Audio Stack" />
-      <br /><br />
-      <!-- CAPA 1: WRITING & STRUCTURE -->
-      <p>
-        &nbsp;&nbsp;&nbsp;
-        <img src="https://api.iconify.design/mdi/fountain-pen-tip.svg?color=%234A90D9&width=18&height=18" width="18" height="18" alt="Writing" title="Writing & Structure" align="middle" />
-        <img src="https://api.iconify.design/mdi/dots-vertical.svg?color=%23768390&width=14&height=14" width="14" height="14" alt="│" align="middle" />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://api.iconify.design/mdi/language-markdown.svg?color=%234A90D9&width=22&height=22" width="22" height="22" alt="Markdown" title="Markdown Lyrics & Notes" align="middle" />
-        &nbsp;&nbsp;&nbsp;
-        <img src="https://api.iconify.design/mdi/file-document-outline.svg?color=%232E86AB&width=22&height=22" width="22" height="22" alt="Scripts" title="Narrative Scripts" align="middle" />
-        &nbsp;&nbsp;&nbsp;
-        <img src="https://api.iconify.design/mdi/git.svg?color=%23D97B54&width=22&height=22" width="22" height="22" alt="Git" title="Version Control" align="middle" />
-        &nbsp;&nbsp;&nbsp;
-        <img src="https://api.iconify.design/mdi/google-drive.svg?color=%233DA372&width=22&height=22" width="22" height="22" alt="Google Drive" title="Google Drive Stems & Media" align="middle" />
-      </p>
-      <!-- CAPA 2: DAW & AUDIO -->
-      <p>
-        &nbsp;&nbsp;&nbsp;
-        <img src="https://api.iconify.design/mdi/waveform.svg?color=%23D97B54&width=18&height=18" width="18" height="18" alt="Audio" title="DAW & Mixing" align="middle" />
-        <img src="https://api.iconify.design/mdi/dots-vertical.svg?color=%23768390&width=14&height=14" width="14" height="14" alt="│" align="middle" />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://api.iconify.design/simple-icons/steinberg.svg?color=%23D95F69&width=22&height=22" width="22" height="22" alt="Cubase" title="DAW / Mixing" align="middle" />
-        &nbsp;&nbsp;&nbsp;
-        <!-- TODO: Asegúrate de tener este SVG o usa un ícono de Iconify -->
-        <img src="./assets/03-stack-flstudio.svg" width="22" height="22" alt="FL Studio" title="Arrangement & Sketching" align="middle" />
-        &nbsp;&nbsp;&nbsp;
-        <img src="https://api.iconify.design/mdi/microphone.svg?color=%238B6BB7&width=22&height=22" width="22" height="22" alt="Vocals" title="Vocal Tracking & Processing" align="middle" />
-      </p>
-      <!-- CAPA 3: DSP & CODE -->
-      <p>
-        &nbsp;&nbsp;&nbsp;
-        <img src="https://api.iconify.design/mdi/code-tags.svg?color=%233DA372&width=18&height=18" width="18" height="18" alt="DSP & Code" title="DSP & Programming" align="middle" />
-        <img src="https://api.iconify.design/mdi/dots-vertical.svg?color=%23768390&width=14&height=14" width="14" height="14" alt="│" align="middle" />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://api.iconify.design/mdi/language-cpp.svg?color=%234A90D9&width=22&height=22" width="22" height="22" alt="C++" title="C++ / JUCE" align="middle" />
-        &nbsp;&nbsp;&nbsp;
-        <img src="https://api.iconify.design/mdi/language-python.svg?color=%233DA372&width=22&height=22" width="22" height="22" alt="Python" title="Python Audio / ML" align="middle" />
-        &nbsp;&nbsp;&nbsp;
-        <img src="https://api.iconify.design/mdi/microsoft-visual-studio.svg?color=%238B6BB7&width=22&height=22" width="22" height="22" alt="Visual Studio" title="Visual Studio" align="middle" />
-      </p>
-      <!-- CAPA 4: VISUALS & WEB -->
-      <p>
-        &nbsp;&nbsp;&nbsp;
-        <img src="https://api.iconify.design/mdi/palette-outline.svg?color=%23C86490&width=18&height=18" width="18" height="18" alt="Visuals & Web" title="Visuals & Web" align="middle" />
-        <img src="https://api.iconify.design/mdi/dots-vertical.svg?color=%23768390&width=14&height=14" width="14" height="14" alt="│" align="middle" />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://api.iconify.design/simple-icons/adobephotoshop.svg?color=%234A90D9&width=22&height=22" width="22" height="22" alt="Photoshop" title="Cover & Visual Mockups" align="middle" />
-        &nbsp;&nbsp;&nbsp;
-        <img src="https://api.iconify.design/simple-icons/adobeillustrator.svg?color=%23D97B54&width=22&height=22" width="22" height="22" alt="Illustrator" title="Vector & Graphic Elements" align="middle" />
-        &nbsp;&nbsp;&nbsp;
-        <img src="https://api.iconify.design/mdi/web.svg?color=%232E86AB&width=22&height=22" width="22" height="22" alt="GitHub Pages" title="GitHub Pages" align="middle" />
-      </p>
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <!-- TODO: Reemplaza o crea estos SVGs laterales si los mantienes -->
-      <img src="./assets/03-side-isometric.svg" width="100%" alt="Activity Matrix" />
-      <br /><br />
-      <img src="./assets/03-side-langs.svg" width="100%" alt="Distribution" />
-    </td>
-  </tr>
-
-  <!-- ROW 5: FOOTER -->
+  <!-- BLOQUE 3: CATÁLOGO DE ÁLBUMES / PORTADAS MINIMALISTAS (ANCHO COMPLETO) -->
   <tr>
     <td colspan="2" width="100%" align="center" valign="middle">
-      <!-- TODO: Reemplaza o crea estos SVGs de cierre -->
-      <img src="./assets/04-footer-contrib.svg" width="100%" alt="Annual Activity" />
-      <br /><br />
+      <p><sub><b>CATALOG &amp; RELEASES</b></sub></p>
+      <table width="100%" cellpadding="8" cellspacing="0">
+        <tr>
+          <td width="25%" align="center" valign="top">
+            <!-- TODO: Sustituye por la URL de la portada real de Andrómeda y su enlace exacto en Spotify -->
+            <a href="https://open.spotify.com/intl-es/artist/67BdlNDvFCa6aRWlcrlWUy" title="Andrómeda en Spotify">
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS32nI4s7VzG6SiEMum6U9halZ2E0xlVmzxt3U01DMucNDBwHUmlYvbcfJI&s=10" width="96" height="96" alt="Portada Andrómeda" />
+            </a>
+            <br />
+            <sub><b>Andrómeda</b><br /><em>Current Cycle</em></sub>
+          </td>
+          <td width="25%" align="center" valign="top">
+            <!-- TODO: Sustituye por la URL de la portada real de Automata y su enlace exacto en Spotify -->
+            <a href="https://open.spotify.com/intl-es/artist/67BdlNDvFCa6aRWlcrlWUy" title="Automata en Spotify">
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg7t3otPgXTnsg-_AE3-KG0Wsp7VbWe05ILWHQSP6oD-_InLfI3k_Td8s&s=10" width="96" height="96" alt="Portada Automata" />
+            </a>
+            <br />
+            <sub><b>Automata</b><br /><em>Foundational Era</em></sub>
+          </td>
+          <td width="25%" align="center" valign="top">
+            <!-- TODO: Sustituye por la URL de la portada real de Abstracto y su enlace exacto en Spotify -->
+            <a href="https://open.spotify.com/intl-es/artist/67BdlNDvFCa6aRWlcrlWUy" title="Abstracto en Spotify">
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1VWM_yoM55Grno5_Itx-QKX-NaIYwzn5KT0Sx0IR1Q0zIiRzSvF_JhA&s=10" width="96" height="96" alt="Portada Abstracto" />
+            </a>
+            <br />
+            <sub><b>Abstracto</b><br /><em>Catalog Edition</em></sub>
+          </td>
+          <td width="25%" align="center" valign="top">
+            <!-- TODO: Sustituye por la portada o single destacado (p. ej. 7AM) y su enlace en Spotify -->
+            <a href="https://open.spotify.com/intl-es/artist/67BdlNDvFCa6aRWlcrlWUy" title="Escuchar singles en Spotify">
+              <img src="https://api.iconify.design/mdi/vinyl.svg?color=%234A90D9&width=96&height=96" width="96" height="96" alt="Yomán Singles & Sessions" />
+            </a>
+            <br />
+            <sub><b>Singles &amp; Sessions</b><br /><em>7AM · Picaflores</em></sub>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <!-- BLOQUE 4: CIERRE VISUAL SVG -->
+  <tr>
+    <td colspan="2" width="100%" align="center" valign="middle">
+      <!-- TODO: Conserva o ajusta este SVG decorativo de cierre -->
       <img src="./assets/04-footer-wave.svg" width="100%" alt="Footer Wave" />
     </td>
   </tr>

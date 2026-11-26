@@ -27,7 +27,7 @@
     </td>
     <td width="30%" align="center" valign="middle">
       <!-- TODO: Asegúrate de tener este SVG en ./assets/ o reemplázalo por uno propio -->
-      <img src="./assets/01-header-codebars.svg" alt="Signal bars" width="100%" />
+      <a href="https://open.spotify.com/intl-es/artist/67BdlNDvFCa6aRWlcrlWUy" title="Spotify Artist"><img src="./assets/05-easter-waveform.svg" height="22" alt="Audio Waveform" align="middle" /></a>
       <br />
       <!-- TODO: Cambia la URL por tu GitHub Pages o archivo de obra -->
       <a href="https://TU_USUARIO.github.io/TU_REPO/">
@@ -184,14 +184,3 @@
     </td>
   </tr>
 </table>
-
-<!-- FOOTER EASTER EGG: SPOTIFY + WAVEFORM -->
-<details>
-  <summary><sub>♪</sub></summary>
-  <p align="left">
-    <a href="https://open.spotify.com/intl-es/artist/67BdlNDvFCa6aRWlcrlWUy" title="Spotify Artist"><img src="https://api.iconify.design/mdi/spotify.svg?color=%233DA372&width=22&height=22" width="22" height="22" alt="Spotify Artist" align="middle" /></a>
-    &nbsp;
-    <!-- TODO: Reemplaza o crea este SVG de onda -->
-    <a href="https://open.spotify.com/intl-es/artist/67BdlNDvFCa6aRWlcrlWUy" title="Spotify Artist"><img src="./assets/05-easter-waveform.svg" height="22" alt="Audio Waveform" align="middle" /></a>
-  </p>
-</details>
